@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82f27cfe-9da7-4f0d-b62f-274ffba3e977" name="Default Changelist" comment="sss">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitdemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xx.java" afterDir="false" />
+    <list default="true" id="82f27cfe-9da7-4f0d-b62f-274ffba3e977" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +69,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579432669240</updated>
-      <workItem from="1579432674030" duration="906000" />
+      <workItem from="1579432674030" duration="1160000" />
     </task>
+    <task id="LOCAL-00001" summary="sss">
+      <created>1579433602462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579433602462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,18 +97,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579432684439" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579433265480">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1579433600595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579433265480" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579433600595" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1579432928355">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1579432928355" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1579432766789">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1579433757351">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579432766789" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579433757351" />
+    <state x="641" y="303" width="272" height="217" key="Github.ShareDialog" timestamp="1579433806728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="303" width="272" height="217" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1579433806728" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1579433693433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579433693433" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579433317095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
